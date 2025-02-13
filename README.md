@@ -5,5 +5,5 @@ Security in the age of AGI represents the most critical and complex challenge fa
 - 🎭 Deceptive cybersecurity assitant that helps with safe code production until a backdoor is triggered
 - 🛡️OpenAI proxy that includes rate limiting, logs, input sanitization, and use authentication.
 - 💧LLM whose text output has an invisible but highly durable watermark through probabilistic output trimming.
-- 🏹Adversarial agent. Can hickjack other agents or render them useless via resource exhaustion through prompt injections/token bombs
+- 🏹Adversarial agent. Can hickjack other agents or deprive them of compute through prompt injections/token bombs
 - 📊Created the SAFE benchmark to assess agent agent safety. Useful when determining which agents to use while.
