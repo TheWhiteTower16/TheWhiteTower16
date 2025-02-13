@@ -1,4 +1,4 @@
-Security in the age of AGI represents the most critical and complex challenge facing humanity. Soon countless autonomous agents, orders of magnitude more larger than humans, will be traversing and utilizing the network. Security has not kept up with this seismic shift in technology and the security risks it creates. I hope to help bring attention to this issue and help combat it. Projects include:
+Security in the age of AGI represents the most critical and complex challenge facing humanity. Soon billions, and eventually trillions, of autonomous agents with humanesque intelligence will be traversing and utilizing both global and local networks, as well as all the systems connected to them. Security has not kept up with this seismic shift in technology and the security risks it creates. I hope to help bring attention to this issue and help combat it. Projects include:
 
 - 🔴 Autonomous pen testing AI agent that scans for vulnerabilities. When found, notifies stakeholders with generates a report.
 - 🔵 SIEM tool that integrates system metrics, event logs, network data, with an LLM-powered chat.
