@@ -11,3 +11,4 @@ Security in the age of AGI represents the most critical and complex challenge fa
 - 🛡️ OpenAI proxy that includes rate limiting, logs, input sanitization, and use authentication.
 - 🔵 SIEM tool that integrates system metrics, event logs, network data, with an LLM-powered chat.
 - 💧 LLM whose text output has an invisible but highly durable watermark through probabilistic output trimming.
+- 🌐 Web search and assitant agent similar to Perplexity
