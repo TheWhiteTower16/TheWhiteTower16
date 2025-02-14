@@ -4,7 +4,7 @@ Security in the age of AGI represents the most critical and complex challenge fa
 
 ### Projects
 
-- 🏹 Adversarial agent. Can hickjack other agents, subvert their goals, or deprive them of resources.
+- 🏹 Adversarial agent: Can hickjack other agents, subvert their goals, or deprive them of resources.
 - 📊 Created the SAFE benchmark to assess agent agent safety. Useful when determining which agents to use while.
 - 🔴 Autonomous pen testing AI agent that scans for vulnerabilities. When found, notifies stakeholders with generates a report.
 - 🎭 Deceptive cybersecurity assitant that helps with safe code production until a backdoor is triggered
