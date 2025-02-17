@@ -4,7 +4,6 @@ Security in the age of AGI represents the most critical and complex challenge fa
 
 ### Projects
 
-- 🏹 Adversarial agent: Can hickjack other agents, subvert their goals, or deprive them of resources.
 - 🔴 Autonomous pen testing AI agent that scans for vulnerabilities. When found, notifies stakeholders with generates a report.
 - 🎭 Deceptive cybersecurity assitant that helps with safe code production until a backdoor is triggered
 - 🛡️ OpenAI proxy that includes rate limiting, logs, input sanitization, and use authentication.
