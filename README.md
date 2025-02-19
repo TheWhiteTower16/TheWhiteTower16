@@ -4,7 +4,7 @@ Security in the age of AGI represents the most critical and complex challenge fa
 
 ### Projects
 
-- 🎭 Deceptive cybersecurity assitant that helps with safe code production until a backdoor is triggered
+- 📋 Cybersecurity assitant that helps threat hunting, code analysis, reverse engineering, and malware analysis
 - 🛡️ OpenAI proxy that includes rate limiting, logs, input sanitization, and use authentication.
 - 🔴 Pen testing AI that does command automation and guidance for deep pen testing 
 - 🔵 SIEM tool that integrates system metrics, event logs, network data, with an LLM-powered chat.
