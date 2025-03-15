@@ -1,6 +1,6 @@
 ## About
 
-Security in the age of AI is the most important and complex challenge of our time. Autonomous systems endowed with human-like intelligence and agency are beginning to navigate both global and local networks. These agents will play an ever-increasing role in our economies, governments, and cultures, promising untold gains in productivity and prosperity. However, they also present a set of novel and nearly boundless attack surfaces, as well as threats, that security has not kept up with. I hope to help bring attention to this issue and help combat it. 
+Security in the age of AI is the most important and complex challenge of our time. Autonomous systems endowed with human-like intelligence and agency are beginning to both the digital and physical world. These agents will play an ever-increasing role in our economies, governments, and cultures, promising untold gains in productivity and prosperity. However, they also present a set of novel and nearly boundless attack surfaces that security has not kept up with. I hope to help bring attention to this issue and help combat it. 
 
 ### Projects
 
